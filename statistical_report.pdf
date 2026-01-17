@@ -1,0 +1,40 @@
+Statistical Business Analysis Report
+________________________________________
+1. Introduction
+In today’s data-driven business environment, statistical analysis plays a crucial role in understanding performance patterns and supporting strategic decision-making. This project focuses on applying statistical techniques to analyze business sales data and evaluate the impact of marketing expenditure on revenue generation.
+The primary objective of this study is to:
+•	Analyze sales performance using descriptive statistics
+•	Test business assumptions through hypothesis testing
+•	Examine relationships between marketing spend and sales
+•	Build a regression model to quantify marketing effectiveness
+•	Translate statistical findings into actionable business insights
+This report demonstrates how statistical methods such as hypothesis testing, correlation analysis, confidence intervals, and regression analysis can be used to support business decisions.
+________________________________________
+2. Dataset Description
+The dataset used in this analysis represents simulated business sales data collected over multiple months and regions. It reflects realistic business operations and marketing investments.
+Dataset Variables
+Column Name	Description
+Month	Month of sales activity
+Region	Business region (A, B, C)
+Marketing_Spend	Total marketing expenditure
+Online_Ads	Online advertising spend
+Store_Promotions	In-store promotion cost
+Sales	Total sales revenue
+Dataset Characteristics
+•	Number of records: 50+ observations
+•	Data type: Numerical and categorical
+•	No missing values
+•	Suitable for statistical testing and regression modeling
+This dataset enables analysis of both temporal trends and regional performance, making it ideal for business-oriented statistical analysis.
+________________________________________
+3. Descriptive Statistics
+Descriptive statistics were calculated to summarize the central tendency, dispersion, and overall distribution of sales and marketing variables.
+Key Statistical Measures
+•	Mean
+•	Median
+•	Mode
+•	Standard Deviation
+•	Minimum and Maximum values
+•	Quartiles
+
+
